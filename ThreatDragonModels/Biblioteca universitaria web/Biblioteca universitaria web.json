@@ -1,0 +1,35 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Biblioteca universitaria web",
+    "owner": "Gabriel Antonio González López",
+    "description": "sitio web que busca brindar servicios en línea a los bibliotecarios y usuarios de lal biblioteca (estudiantes, personal y bibliotecarios).",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama de flujo de datos para el sitio web",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      },
+      {
+        "id": 1,
+        "title": "Diagrama de flujo de datos de el inicio de sesión",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
